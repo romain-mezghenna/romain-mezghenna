@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14fb06ce.css",
+    "main.js": "/static/js/main.b71d3576.js",
+    "static/js/787.27e0a0d6.chunk.js": "/static/js/787.27e0a0d6.chunk.js",
+    "static/media/exterieur.jpeg": "/static/media/exterieur.ae7fa92cc42e714d0237.jpeg",
+    "static/media/fifa23.jpg": "/static/media/fifa23.d75b46cdd223f8e393a8.jpg",
+    "static/media/interieur.jpeg": "/static/media/interieur.08c7b3566fa7192d4b5a.jpeg",
+    "static/media/tennis.png": "/static/media/tennis.55e09f7300fd3e29f5fe.png",
+    "index.html": "/index.html",
+    "main.14fb06ce.css.map": "/static/css/main.14fb06ce.css.map",
+    "main.b71d3576.js.map": "/static/js/main.b71d3576.js.map",
+    "787.27e0a0d6.chunk.js.map": "/static/js/787.27e0a0d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14fb06ce.css",
+    "static/js/main.b71d3576.js"
+  ]
+}
